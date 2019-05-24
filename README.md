@@ -79,14 +79,3 @@ Eclipse or IntelliJ IDEA中启动, 找到```com.zzg.mybatis.generator.MainUI```�
     * 如果有任何的错误截图会更好
     * 如果你是一些常见的数据库连接、软件启动不了等问题，请先仔细阅读上面的文档，再解决不了在下面的QQ群中问（问问题的时候尽量把各种信息都提供好，否则只是几行文字是没有人愿意为你解答的）。
     
-### QQ群
-鉴于有的同学可能有一些特殊情况不能使用，我建了一个QQ群供大家交流，QQ群号：613911142（已满），608454894
-
-### 赞助
-本工具纯属个人业余时间开发与维护，如果你觉得软件对你有用，欢迎赞助，金额随意 :)
-
-<img src="https://user-images.githubusercontent.com/3505708/38162358-423d2d18-3512-11e8-9b52-c188bf37671d.png" width="200"> <img src="https://user-images.githubusercontent.com/3505708/38162365-56f8f55c-3512-11e8-8fd8-b8ae4f0ad3c8.png" width="200">
-- - -
-Licensed under the Apache 2.0 License
-
-Copyright 2017 by Owen Zou
